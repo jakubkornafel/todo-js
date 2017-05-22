@@ -1,0 +1,22 @@
+
+body {
+  text-align: center;
+}
+
+
+#todos{
+  margin-left: 30%;
+  margin-right: 30%;
+  /*background-color: #FDFFFC;*/
+  text-align: left;
+  /*border-radius: 8px;*/
+}
+
+#add{
+background-color: #2CE87A;
+}
+
+button{
+  background-color: #DB2932;
+  border-radius: 3px;
+}
